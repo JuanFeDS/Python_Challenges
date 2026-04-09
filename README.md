@@ -1,33 +1,24 @@
-# 🐍 Python Challenges 
+# 🧠 Technical Challenges Portfolio
 
-Este repositorio contiene una colección de desafíos resueltos de HackerRank y CodeWars, organizados por nivel de dificultad y/o categoría. Los desafíos cubren una variedad de temas, incluyendo algoritmos, estructuras de datos y problemas de programación.
-
-## Estructura del Repositorio 📁
-
-El repositorio está estructurado de la siguiente manera:
-
-- **🥷 HackerRank/**: Contiene desafíos de HackerRank organizados en las siguientes subcarpetas:
-  - **Introducción/**: Desafíos iniciales para familiarizarse con Python.
-
-- **🪖 CodeWars/**: Contiene desafíos de CodeWars organizados en las siguientes subcarpetas:
-  - **Data Science/**: Desafíos relacionados con problemas de Ciencia de Datos.
-
-Cada carpeta contiene archivos `.py` con las soluciones a los desafíos correspondientes.
-
-## Uso 🚀
-
-Puedes explorar los desafíos dentro de cada carpeta para ver las soluciones implementadas en Python. Cada archivo `.py` incluye una descripción del desafío, la solución implementada y ejemplos de uso para comprender mejor el funcionamiento de la solución.
-
-Siéntete libre de explorar, aprender y contribuir con tus propias soluciones a estos desafíos.
-
-## Contribuciones 🤝
-
-Las contribuciones son bienvenidas. Si tienes soluciones alternativas a los desafíos existentes o deseas agregar nuevos desafíos con tus soluciones, no dudes en abrir una solicitud de extracción.
-
-## Licencia 📝
-
-Este proyecto está bajo la [Licencia MIT](LICENSE). Siéntete libre de utilizar el código en este repositorio de acuerdo con los términos de esta licencia.
+Colección de retos técnicos resueltos con enfoque pedagógico. Cada reto incluye explicación del problema, razonamiento, solución comentada y lecciones aprendidas.
 
 ---
 
-¡Espero que encuentres útiles y divertidos estos desafíos! Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o ponerte en contacto conmigo.
+## 📂 Categorías
+
+| Categoría | Subcategorías | Descripción |
+|-----------|---------------|-------------|
+| [🔢 Algorithms](challenges/algorithms/) | strings · math · basics | Sorting, searching, recursión, complejidad |
+| [🗂️ Data Structures](challenges/data_structures/) | linear · trees · graphs · hash_tables | Arrays, listas, árboles, grafos, stacks, queues |
+| [📊 Statistics](challenges/statistics/) | descriptive · regression · probability | Probabilidad, inferencia, regresión |
+| [🗄️ Databases](challenges/databases/) | queries · modeling · optimization | SQL, modelado, optimización de queries |
+| [⚙️ Data Engineering](challenges/data_engineering/) | etl · pipelines · streaming | ETL, pipelines, procesamiento batch/stream |
+| [🤖 Machine Learning](challenges/machine_learning/) | supervised · unsupervised · feature_engineering | Modelos, métricas, feature engineering |
+| [🧬 AI Engineering](challenges/ai_engineering/) | llms · rag · agents | LLMs, RAG, agentes, APIs de IA |
+| [🏗️ System Design](challenges/system_design/) | distributed_systems · scalability · architecture | Sistemas distribuidos, escalabilidad |
+| [🎨 Design Patterns](challenges/design_patterns/) | creational · structural · behavioral | SOLID, patrones GoF, arquitecturas |
+
+---
+
+> Cada reto vive en su propia carpeta con un `solution.py` y un `README.md` explicativo.  
+> Plantilla disponible en [`docs/TEMPLATE.md`](docs/TEMPLATE.md).
