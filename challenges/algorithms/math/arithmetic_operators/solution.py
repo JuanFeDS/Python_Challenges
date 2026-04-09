@@ -29,7 +29,7 @@ def arithmetic_operators(a, b):
 
 
 if __name__ == '__main__':
-    
+
     # Ejemplo 1
     number_1 = int(input('Introduce el número a: '))
     number_2 = int(input('Introduce el número b: '))
